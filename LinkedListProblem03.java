@@ -1,9 +1,9 @@
-import java.lang.reflect.Array;
+// import java.lang.reflect.Array;
 import java.math.BigInteger;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
+// import java.util.HashMap;
+// import java.util.HashSet;
+// import java.util.List;
 
 public class LinkedListProblem03 {
     static class ListNode {
@@ -495,12 +495,12 @@ public class LinkedListProblem03 {
     }
 
     public static void main(String[] args) {
-        int[] num1 = { 7, 2, 4, 3 };
-        int[] num2 = { 5, 6, 4 };
+        // int[] num1 = { 7, 2, 4, 3 };
+        // int[] num2 = { 5, 6, 4 };
         int[] arr = { 7, 9, 6, 6, 7, 8, 3, 0, 9, 5 };
         // int[] arr2 = { 1, 0, 1 };
-        ListNode head = createLinkedList(num1);
-        ListNode head2 = createLinkedList(num2);
+        // ListNode head = createLinkedList(num1);
+        // ListNode head2 = createLinkedList(num2);
         ListNode head3 = createLinkedList(arr);
         // printLinkedList(head);
         // System.out.println();
